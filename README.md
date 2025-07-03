@@ -14,10 +14,15 @@ Este é um blog simples desenvolvido com **HTML**, **CSS** e **JavaScript**. Ide
 
 meu-blog/
 ├── index.html # Página principal
+
 ├── style.css # Estilos do blog
+
 ├── script.js # Tema claro/escuro
+
 ├── posts/
+
 │ └── post1.html # Exemplo de post
+
 └── README.md # Este arquivo
 
 
